@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationTestSuite">
+    <test name="PasswordGeneratorTestSuite">
+        <classes>
+            <!-- Specify the fully qualified class name -->
+            <class name="org.tests.PasswordGeneratorTest" />
+        </classes>
+    </test>
+</suite>

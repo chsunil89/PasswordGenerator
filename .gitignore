@@ -1,0 +1,15 @@
+# Maven output directories
+/target/
+
+# Eclipse IDE specific files
+/.settings/
+/.project
+/.classpath
+
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
